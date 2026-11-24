@@ -1,5 +1,10 @@
 # ShopDesk - Product Catalog & Inventory Dashboard
 
+## 🌐 Live Demo
+- **Frontend (Vercel):** https://shopdesk-navy-three.vercel.app
+- **Backend API (Render):** https://shopdesk-api-know.onrender.com
+
+*(Note: The backend uses Render's free tier, so the first request might take 30-50 seconds to wake up).*
 A frontend React application built to manage a shop's product inventory. Built for the React Frontend Intern Project.
 
 ## 📸 Screenshots
