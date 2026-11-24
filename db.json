@@ -1,0 +1,123 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "LED Bulb 9W",
+      "sku": "LGT-001",
+      "category": "Lights",
+      "price": 150,
+      "stock": 2,
+      "lowStockAlert": 5,
+      "imageUrl": "",
+      "description": "Energy saving warm white bulb.",
+      "createdAt": "2026-10-01T09:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Ceiling Fan 48 inch",
+      "sku": "FAN-001",
+      "category": "Fans",
+      "price": 3200,
+      "stock": 14,
+      "lowStockAlert": 3,
+      "imageUrl": "",
+      "description": "Three blade ceiling fan.",
+      "createdAt": "2026-10-01T08:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Switch Board 6 Module",
+      "sku": "SWT-001",
+      "category": "Switches",
+      "price": 450,
+      "stock": 30,
+      "lowStockAlert": 10,
+      "imageUrl": "",
+      "description": "Modular switch board.",
+      "createdAt": "2026-10-01T07:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "name": "Copper Wire 1.5mm",
+      "sku": "WIR-001",
+      "category": "Wires",
+      "price": 1200,
+      "stock": 50,
+      "lowStockAlert": 10,
+      "imageUrl": "",
+      "description": "High quality copper wire.",
+      "createdAt": "2026-10-01T06:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "name": "Screwdriver Set",
+      "sku": "TLS-001",
+      "category": "Tools",
+      "price": 850,
+      "stock": 0,
+      "lowStockAlert": 2,
+      "imageUrl": "",
+      "description": "6-piece screwdriver set.",
+      "createdAt": "2026-10-01T05:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Tube Light 20W",
+      "sku": "LGT-002",
+      "category": "Lights",
+      "price": 350,
+      "stock": 4,
+      "lowStockAlert": 5,
+      "imageUrl": "/goto?url=CAESbwHEIkXXdq7EV4h9UPBizHLNZeHFVAc6-jGtm6wX8GYDl3ZdNBZEe-q6Te8PnwamCdbPVCzRdCMuxLjENoDzNeeF6F2iru040ogRnDU-wlCz2jljAl-xtk55wW9zbOzKlaF5MXxdK6BWDl3KW2S1-g",
+      "description": "Bright white tube light.",
+      "createdAt": "2026-10-01T04:00:00.000Z"
+    },
+    {
+      "name": "table",
+      "sku": "dsvsd",
+      "category": "Switches",
+      "price": 234,
+      "stock": 4,
+      "lowStockAlert": 5,
+      "imageUrl": "/goto?url=CAESbwHEIkXXdq7EV4h9UPBizHLNZeHFVAc6-jGtm6wX8GYDl3ZdNBZEe-q6Te8PnwamCdbPVCzRdCMuxLjENoDzNeeF6F2iru040ogRnDU-wlCz2jljAl-xtk55wW9zbOzKlaF5MXxdK6BWDl3KW2S1-g",
+      "description": "Majestic table",
+      "createdAt": "2026-11-24T08:43:47.375Z",
+      "id": 7
+    },
+    {
+      "name": "GANT",
+      "sku": "mj",
+      "category": "Switches",
+      "price": 23,
+      "stock": 22,
+      "lowStockAlert": 5,
+      "imageUrl": "33",
+      "description": "s3s",
+      "createdAt": "2026-11-24T09:11:59.913Z",
+      "id": 8
+    },
+    {
+      "name": "GANT",
+      "sku": "",
+      "category": "Lights",
+      "price": 2309,
+      "stock": 0,
+      "lowStockAlert": 5,
+      "imageUrl": "/goto?url=CAESbwHEIkXXdq7EV4h9UPBizHLNZeHFVAc6-jGtm6wX8GYDl3ZdNBZEe-q6Te8PnwamCdbPVCzRdCMuxLjENoDzNeeF6F2iru040ogRnDU-wlCz2jljAl-xtk55wW9zbOzKlaF5MXxdK6BWDl3KW2S1-g",
+      "description": "fdf",
+      "id": 9
+    },
+    {
+      "name": "jkww",
+      "sku": "jkk",
+      "category": "Lights",
+      "price": 22,
+      "stock": 2,
+      "lowStockAlert": 5,
+      "imageUrl": "jkk",
+      "description": "jk",
+      "createdAt": "2026-11-24T17:24:39.697Z",
+      "id": 10
+    }
+  ]
+}
